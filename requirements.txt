@@ -1,8 +1,0 @@
-matplotlib
-onnxruntime
-opencv-python
-pymatting
-pooch
-jsonschema
-tqdm
-# moviepy
