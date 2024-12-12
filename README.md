@@ -16,11 +16,11 @@ Steps to install and run the project:
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/rudrarathod/Video-BG-Remove.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd <project-directory>
+   cd Video-BG-Remove
    ```
 3. Install dependencies:
    ```bash
@@ -101,12 +101,9 @@ Instructions to contribute to the project:
    ```  
 5. Open a pull request.
 
-## 📝 License
-
-This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for details.
-
 ## 🙏 Acknowledgements
 
 - [OpenCV](https://opencv.org/) for image processing tools.
+- [danielgatis/rembg](https://github.com/danielgatis/rembg.git) for the image bg remove model
 - Pre-trained models and datasets used for developing the sessions.
 - Contributors to the open-source Python community.
