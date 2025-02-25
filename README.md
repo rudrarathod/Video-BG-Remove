@@ -17,7 +17,6 @@ Steps to install and run the project:
 //1. Clone the repository:
    git clone https://github.com/rudrarathod/Video-BG-Remove.git
 //2. Navigate to the project directory:
-   ```bash
    cd Video-BG-Remove
 //3. Install dependencies:
    pip install -r requirements.txt
